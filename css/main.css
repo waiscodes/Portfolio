@@ -4,4 +4,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  /* Fonts */
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
 }
